@@ -1,0 +1,15 @@
+MEDICAL ANSWERS SIMILARITY ANALYSIS
+==================================
+
+SUMMARY STATISTICS
+-----------------
+original_semantic_avg: 0.0506
+original_bleu_avg: 0.0506
+original_rouge1_avg: 0.0506
+original_rouge2_avg: 0.0506
+original_rougeL_avg: 0.0506
+faq_semantic_avg: 0.0323
+faq_bleu_avg: 0.0010
+faq_rouge1_avg: 0.0113
+faq_rouge2_avg: 0.0024
+faq_rougeL_avg: 0.0104
